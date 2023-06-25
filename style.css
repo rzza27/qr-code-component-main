@@ -39,11 +39,11 @@ main {
 }
 
 div {
-  padding: 3rem;
+  padding: 1rem;
   background-color: var(--white);
   text-align: center;
-  width: 30rem;
-  height: 45rem;
+  width: 27rem;
+  height: 43rem;
   border-radius: 1.2rem;
 }
 
@@ -58,6 +58,7 @@ p {
 }
 
 img {
+    border-radius: 1.2rem;
   width: 25rem;
   height: 25rem;
 }
